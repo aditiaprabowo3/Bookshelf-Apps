@@ -3,6 +3,6 @@ This web bookshelf was created to make it easier for us when we want to store wh
 The technology stack used is :
 - HTML
 - CSS
-- Javascript (DOM, Bom, Local Storage)
+- Javascript (Dom, Bom, Local Storage)
   
 ![Screen Shot](https://github.com/aditiaprabowo3/Bookshelf-Apps/blob/main/image/img.png)
