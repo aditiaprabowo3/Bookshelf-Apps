@@ -1,5 +1,5 @@
 # Bookshelf Apps
-web bookshelf was created to make it easier for us when we want to store whatever books we are reading and whatever books we have read. This website uses local storage which means that when it is refreshed the data that has been entered will not be lost.
+wtgeb bookshelf was created to make it easier for us when we want to store whatever books we are reading and whatever books we have read. This website uses local storage which means that when it is refreshed the data that has been entered will not be lost.
 The technology stack used is :
 - HTML5
 - CSS3
