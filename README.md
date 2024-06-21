@@ -5,4 +5,4 @@ The technology stack used is :
 - CSS
 - Javascript (DOM & BOM, Local Storage)
   
-![Screen Shot](https://github.com/aditiaprabowo3/Bookshelf-Apps/blob/main/image/img.png)
+<img src="https://github.com/aditiaprabowo3/Bookshelf-Apps/blob/main/image/img.png" width="300" height="200" alt="Gambar">
