@@ -6,4 +6,3 @@ The tech stack :
 - Javascript (DOM & BOM, Local Storage)
 
 <img src="https://github.com/aditiaprabowo3/Bookshelf-Apps/blob/main/image/img.png" alt="Gambr">
-s
